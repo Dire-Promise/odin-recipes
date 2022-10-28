@@ -9,6 +9,7 @@ The requirements are:
  - links to a few recipes
  - does not have to be pretty
 
+https://dire-promise.github.io/odin-recipes/
 
 
 
